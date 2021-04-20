@@ -7,12 +7,14 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/Ketsugo
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/sabrina-underwood-497245210/
 
 ### Resume
+https://drive.google.com/file/d/1VvIPPimoc9H5mIWdKJ6ppJ2QZ4JzVxts/view?usp=sharing
+
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
