@@ -10,10 +10,10 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/Ketsugo
  
 ### LinkedIn
-https://www.linkedin.com/in/sabrina-underwood-497245210/
+https://www.linkedin.com/in/tyler-underwood-497245210/
 
 ### Resume
-https://drive.google.com/file/d/1VvIPPimoc9H5mIWdKJ6ppJ2QZ4JzVxts/view?usp=sharing
+https://docs.google.com/document/d/1KWeWq5EVnHn7oimrUUvwYprFXWpGjGos8RcZyK-fS10/edit?usp=sharing
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
