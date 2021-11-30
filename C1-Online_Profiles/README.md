@@ -13,7 +13,7 @@ https://github.com/Ketsugo
 https://www.linkedin.com/in/tyler-underwood-497245210/
 
 ### Resume
-https://docs.google.com/document/d/1KWeWq5EVnHn7oimrUUvwYprFXWpGjGos8RcZyK-fS10/edit?usp=sharing
+<DM Me for info>
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
